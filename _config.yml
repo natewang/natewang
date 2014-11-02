@@ -6,7 +6,7 @@
 name: natewang
 
 # Short bio or description (displayed in the header)
-description: IOS Developer from Somewhere
+description: IOS Developer from Shanghai
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: 
@@ -21,12 +21,12 @@ footer-links:
   email: 
   facebook: 
   flickr: 
-  github: barryclark/jekyll-now
+  github:
   instagram: 
   linkedin: 
   pinterest: 
   rss: # just type anything here for a working RSS icon, make sure you set the "url" above!
-  twitter: jekyllrb
+  twitter: 
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
 
 # Your disqus shortname, entering this will enable commenting on posts
