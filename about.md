@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+IOS 开发工程师
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself. 
+现居住上海，工作在创智天地附近。 
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[121479037@qq.com](mailto:121479037@qq.com)
